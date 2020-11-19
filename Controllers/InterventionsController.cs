@@ -60,6 +60,46 @@ namespace Rocket_Elevator_RESTApi.Controllers
 
             
         }
+////////////////GET INPROGRESS REQUESTS///////////////////
+
+        [Route("/inProgressRequests")]
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<Intervention>>> inProgressRequests()
+        {
+           var queryIntervention = from intervention in _context.interventions
+                                        where intervention.startDateIntervention != null 
+                                        where intervention.status == "InProgress"
+                                        select intervention;
+
+            var distinctInterventions = (from intervention in queryIntervention
+                                            select intervention).Distinct();
+
+           
+            return  await distinctInterventions.ToListAsync();
+
+            
+        }
+
+////////////////GET COMPLETED REQUESTS///////////////////
+
+        [Route("/completedRequests")]
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<Intervention>>> completedRequests()
+        {
+           var queryIntervention = from intervention in _context.interventions
+                                        where intervention.endDateIntervention != null 
+                                        where intervention.status == "Completed"
+                                        select intervention;
+
+            var distinctInterventions = (from intervention in queryIntervention
+                                            select intervention).Distinct();
+
+           
+            return  await distinctInterventions.ToListAsync();
+
+            
+        }
+
 
 /////////////////UPDATE START DATE////////////////////////
 

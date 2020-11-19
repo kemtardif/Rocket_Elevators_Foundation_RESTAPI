@@ -1,4 +1,5 @@
 C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\publish\Rocket_Elevator_RESTApi.exe
+C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\publish\publish\publish\publish\publish\publish\publish\publish\publish\web.config
 C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\publish\publish\publish\publish\publish\publish\publish\publish\web.config
 C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\publish\publish\publish\publish\publish\publish\publish\web.config
 C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\publish\publish\publish\publish\publish\publish\web.config
@@ -22,6 +23,10 @@ C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\publish\publish\publ
 C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\publish\publish\publish\publish\publish\publish\publish\appsettings.json
 C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\publish\publish\publish\publish\publish\publish\publish\publish\appsettings.Development.json
 C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\publish\publish\publish\publish\publish\publish\publish\publish\appsettings.json
+C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\publish\publish\publish\publish\publish\publish\publish\publish\publish\appsettings.Development.json
+C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\publish\publish\publish\publish\publish\publish\publish\publish\publish\appsettings.json
+C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\publish\publish\publish\publish\publish\publish\publish\publish\publish\Rocket_Elevator_RESTApi.deps.json
+C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\publish\publish\publish\publish\publish\publish\publish\publish\publish\Rocket_Elevator_RESTApi.runtimeconfig.json
 C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\publish\publish\publish\publish\publish\publish\publish\publish\Rocket_Elevator_RESTApi.deps.json
 C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\publish\publish\publish\publish\publish\publish\publish\publish\Rocket_Elevator_RESTApi.runtimeconfig.json
 C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\publish\publish\publish\publish\publish\publish\publish\Rocket_Elevator_RESTApi.deps.json
