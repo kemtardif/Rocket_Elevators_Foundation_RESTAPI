@@ -63,7 +63,7 @@ namespace Rocket_Elevator_RESTApi.Controllers
 
 /////////////////UPDATE START DATE////////////////////////
 
-        [HttpPut("startIntervention/{id}")]
+        [HttpPut("/startIntervention/{id}")]
         public async Task<ActionResult<Intervention>> StartIntervention(long Id)
         {
             var toUpdate = _context.interventions.FirstOrDefault(u => u.id == Id);
@@ -86,7 +86,7 @@ namespace Rocket_Elevator_RESTApi.Controllers
 
 //////////////END START DATE//////////////////
 
-        [HttpPut("endIntervention/{id}")]
+        [HttpPut("/endIntervention/{id}")]
         public async Task<ActionResult<Intervention>> endIntervention(long Id)
         {
             var toUpdate = _context.interventions.FirstOrDefault(u => u.id == Id);
