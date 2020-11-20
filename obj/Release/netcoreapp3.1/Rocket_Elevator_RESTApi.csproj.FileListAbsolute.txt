@@ -546,3 +546,8 @@ C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\bin\Release\netcorea
 C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\bin\Release\netcoreapp3.1\publish\publish\publish\publish\publish\publish\publish\publish\appsettings.json
 C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\bin\Release\netcoreapp3.1\publish\publish\publish\publish\publish\publish\publish\publish\Rocket_Elevator_RESTApi.deps.json
 C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\bin\Release\netcoreapp3.1\publish\publish\publish\publish\publish\publish\publish\publish\Rocket_Elevator_RESTApi.runtimeconfig.json
+C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\bin\Release\netcoreapp3.1\publish\publish\publish\publish\publish\publish\publish\publish\publish\web.config
+C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\bin\Release\netcoreapp3.1\publish\publish\publish\publish\publish\publish\publish\publish\publish\appsettings.Development.json
+C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\bin\Release\netcoreapp3.1\publish\publish\publish\publish\publish\publish\publish\publish\publish\appsettings.json
+C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\bin\Release\netcoreapp3.1\publish\publish\publish\publish\publish\publish\publish\publish\publish\Rocket_Elevator_RESTApi.deps.json
+C:\Users\tardi\Desktop\Rocket_Elevators_REST_API-Foundation\bin\Release\netcoreapp3.1\publish\publish\publish\publish\publish\publish\publish\publish\publish\Rocket_Elevator_RESTApi.runtimeconfig.json
